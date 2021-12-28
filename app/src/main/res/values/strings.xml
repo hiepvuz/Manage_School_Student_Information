@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ass5_RoomRxJava</string>
+    <string name="hint_school_name">SCHOOL NAME</string>
+    <string name="hint_address_school">ADDRESS SCHOOL</string>
+    <string name="btn_update_school">Update School</string>
+    <string name="address">Address:</string>
+    <string name="name">Name</string>
+    <string name="school_name">School Name:</string>
+    <string name="school_address">School Address:</string>
+    <string name="btn_add_school">Add School</string>
+    <string name="student_semester">Student semester</string>
+    <string name="school_update">Update School</string>
+    <string name="school_add">Add School</string>
+    <string name="school">School</string>
+    <string name="btn_add_student">add student</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="semester_student">Semester Student</string>
+    <string name="name_student">Name Student</string>
+
+
+</resources>
